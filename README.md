@@ -1,6 +1,14 @@
 # cs5200-spring2018-rushabh
 
 
+## PR1 - Setup Development Environment
+
+http://cs5200-spring2018-rushabh.us-east-1.elasticbeanstalk.com/
+
+http://cs5200-spring2018-rushabh.us-east-1.elasticbeanstalk.com/api/hello/string
+
+http://cs5200-spring2018-rushabh.us-east-1.elasticbeanstalk.com/api/hello/object
+
 ## Integrating Spring Boot with MySQL
 
 [Insert a static hello message]
